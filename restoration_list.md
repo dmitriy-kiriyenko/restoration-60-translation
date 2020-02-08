@@ -38,82 +38,12 @@
 
 День 20 -- теперь, когда вы изучали Первое Видение на протяжении двух недель, запишите некоторе истины, которые были открыты или восстановлены в результате Первого Видения Джозефа Смита. Прочитайте ["Восемь истин, открытых благодаря Первому видению"](https://www.churchofjesuschrist.org/study/liahona/2020/02/eight-truths-from-the-first-vision?lang=rus). Сравните.
 
-February 24 – Read the first five paragraphs and the section “The First Four Visits” of the article Moroni: Joseph Smith’s Tutor. What important messages came to Joseph as he was visited by Moroni?
+День 22 - Прочитайте Малахия 3 и 3, пророчества Ветхого Завета, которые цитировал Мороний. Прочитайте Джозеф Смит - История 1:37-39 и обсудите или запишите, что вы поняли из этих стихов о важности семей.
 
-February 25 – Read Malachi 3 and 4, the first Old Testament Prophecies Moroni quoted. Read Joseph Smith – History 1:37-39 and discuss or write what you understand from those verses relative to the importance of families.
+День 23 - Прочитайте Исайя 11, Деяния 3:22-23 и Иоиль 2:28-32 - все писания, которые цитировал Мороний. Каким учениям учил Мороний Джозефа Смита? Как они применимы к вам сегодня?
 
-February 26 – Read Isaiah 11, Acts 3:22-23, and Joel 2:28-32 – all scriptures that were quoted by Moroni. What doctrine was Moroni teaching Joseph? How does it apply to you today?
+День 24 - прочитайте секцию "Холм Кумора" в статье Мороний: Учитель Джозефа Смита ([Moroni: Joseph Smith’s Tutor](https://www.churchofjesuschrist.org/study/ensign/1992/01/moroni-joseph-smiths-tutor?lang=eng)). Чему научился Джозеф из своего первого визита на холм? Каким урокам научился Джозеф во время этих визитов? Как они применимы к вам сегодня?
 
-February 27 – Read the section “The Hill Cumorah” in the article Moroni: Joseph Smith’s Tutor. What did Joseph learn from this first visit to the hill?
+День 25 - прочитайте секцию "Визит на Кумору в 1824" и "Визиты Морония, 1824-1827" в статье Мороний: Учитель Джозефа Смита ([Moroni: Joseph Smith’s Tutor](https://www.churchofjesuschrist.org/study/ensign/1992/01/moroni-joseph-smiths-tutor?lang=eng)).
 
-February 28 – Read the sections “The 1824 Visit to Cumorah” and “Moroni’s Visits, 1824-1827” in the article Moroni: Joseph Smith’s Tutor. What lessons did Joseph learn from these visits? How did these experiences change life for the Smith family?
-
-February 29 – Bruce R. McConkie taught, “The Lord never sends apostles and prophets and righteous men to minister to his people without placing women of like spiritual stature at their sides. … The exaltation of the one is dependent upon that of the other.” Read about Emma Hale Smith. These two articles are very good – Emma Hale Smith and My Great-Great-Grandmother Emma Hale Smith. What traits and attributes did Emma have that helped the church as it was just beginning? How did Emma and Joseph help and treat one another?
-
-March 1 – Watch Episode 7 – The Coming Forth of the Book of Mormon from the Joseph Smith Papers. (28:38 minutes)
-
-March 2 – Watch How Did Joseph Smith Translate the Book of Mormon? A question from the Worldwide Devotional: A Face to Face Event with Elder Quentin L. Cook on September 9, 2018 (8:06 minutes)
-
-March 3 – Watch Seer Stones and the Translation of the Book of Mormon (5:00 minutes) 
-
-March 4 – Watch Episode 12 – The Book of Mormon Translation from the Joseph Smith Papers. (28:33 minutes)
-
-March 5 – After losing the 116 pages and not being able to translate for a while the translation of the Book of Mormon started again on April 7, 1829. It was completed by June 30, 1829. It took roughly 65 days to translate the Book of Mormon. Team up with a family member to transcribe 1 Nephi chapter 1 for 15 minutes. One person reads while the other person writes the words. How many words were you able to transcribe? What did you learn from this experience about the translation process of the Book of Mormon? Read this article: How Long Did it Take Joseph Smith to Translate the Book of Mormon?
-
-March 6 – Read the Book of Mormon Translation topic essay.
-
-March 7 – What were Joseph Smith and Oliver Cowdery learning that prompted them to go into the woods near the Susquehanna River on May 15th, 1829? Read Doctrine & Covenants 13 and discuss the authority they received from John the Baptist.
-
-March 8 – Read Restoration of the Aaronic Priesthood in the Church History Topics. How have the ordinances of the Aaronic priesthood blessed your life?
-
-March 9 – Read Doctrine & Covenants 27:12-13 about the coming of Peter, James, and John to restore the Melchizedek Priesthood. How have the ordinances of the Melchizedek priesthood blessed your life?
-
-March 10 – Read Restoration of the Melchizedek Priesthood in the Church History Topics. 
-
-March 11 – Watch Episode 9 – Restoration of the Priesthoods from the Joseph Smith Papers. (28:35) It examines the conferral of divine authority by heavenly beings upon Joseph Smith and Oliver Cowdery and the importance of those events to later developments.
-
-March 12 – Read The Testimony of the Three Witnesses located in the front of the Book of Mormon. Read the article The Experience of the Three Witnesses. 
-
-March 13 – Read the New Era article The Last Witness of the Three Witnesses
-
-March 14 – Read The Testimony of the Eight Witnesses located in the front of the Book of Mormon. What is different about their witness than that of the Three Witnesses?
-
-March 15 – Read Fellow Servants, chapter 7 in Saints Volume 1 about all the witnesses to the Gold Plates, including Mary Whitmer. How did receiving a witness help Mary? Watch this video about her experience created by the Church History Department.
-
-March 16 – Watch Episode 13 – Book of Mormon Printing and Editions from the Joseph Smith Papers. (28:38)
-
-March 17 – Read Doctrine and Covenants 17. How does Jesus Christ give his witness of the truthfulness of the Book of Mormon? Why is it so important that you know the Book of Mormon is the word of God?
-
-March 18 – Make a list of ten or more truths we understand more clearly because we have the Book of Mormon. Read Plain and Precious Truths Restored and see if your lists is similar to the one in the article.
-
-March 19 – Read the article April 6, 1830: The Day the Church was Organized. 
-
-March 20 -Read The Calling of the Restoration’s Original Apostles in the October 2017 Ensign. For further study you can read ‘And He Gave Some Apostles.’ to learn more about the duties and callings of apostles.
-
-March 21 – Sixteen years after the First Vision, the Saints built a temple in Kirtland, Ohio. Read Doctrine & Covenants 110 to discover which ancient prophets visited Joseph Smith and restored priesthood keys.
-
-March 22 – Watch Episode 27 – Endowment of Power and Solemn Assembly which takes a look at the events that took place in the temple at Kirtland and how those events shaped the church.
-
-March 23 – Read Baptism for the Dead to learn how this practice was first taught and restored in Nauvoo by Joseph Smith. Have you gone to the temple to do baptisms for your ancestors? If so, write about an experience you had. How did you feel? 
-
-March 24 – Read “Something Better”: The Female Relief Society of Nauvoo to learn more about the organization of the Relief Society in March 1842. How has the Relief Society organization helped you and your family?
-
-March 25 – Watch Episode 44 – Foundations of the Women’s Relief Society which discusses the history of the Relief Society and its evolution from a sewing society to provide clothing for men laboring on the temple to a multifaceted society founded on the principle of charity. 
-
-March 26 – Read The Unfolding Restoration of Temple Work in the December 2001 Ensign. What blessings have you received because of the temple?
-
-March 27 – Read Endowed with Covenants and Blessings in the February 1995 Ensign. 
-
-March 28 – Read Doctrine & Covenants 131:1-4 and Doctrine & Covenants 132:1-24 about Eternal Marriage. How can an eternal perspective influence the way we feel about marriage and families? 
-
-March 29 – Write down at least five ways your life has been blessed because of Joseph Smith. Read Because of Joseph Smith from the April 2015 New Era.
-
-March 30 – Read The Greatness of Joseph Smith and His Remarkable Visions from the December 1973 New Era.
-
-March 31 – Read The Ministry of the Prophet Joseph Smith in the July 199 Ensign. It is a good summary of everything Joseph Smith accomplished in his lifetime. 
-
-April 1 – Watch the video Joseph Smith: The Prophet of the Restoration. (1:02:04) 
-
-April 2 – Write what you have learned about Joseph Smith and his role as THE prophet of the Restoration. 
-
-April 3 – The Restoration is continuing today! President Russell M. Nelson said, “We are witnesses to the process of restoration. If you think the Church is fully restored, you’re just seeing the beginning. There’s much more to come. Wait until next year, and then the next year. Eat your vitamins, get your rest. It’s going to be exciting!” Write down or discuss with someone how the events of the Restoration have blessed your life.
+День 26 - Брюс Макконки учил "Господь никогда не посылает аполстолов и пророков и праведных людей служить своему народу, не посылая рядом с ними женщин соответствующего духовного развития. ... Возвышение одного зависит от другого.". Прочитайте про Эмму Хейл Смит. Эти две статьи очень хороши: [Эмма Хейл Смит](https://www.churchofjesuschrist.org/study/history/topics/emma-hale-smith?lang=rus) и Моя Величайшая Прабабушка: Эмма Хейл Смит ([My Great-Great-Grandmother, Emma Hale Smith](https://www.churchofjesuschrist.org/study/ensign/1992/08/my-great-great-grandmother-emma-hale-smith?lang=eng)). Какие качества Эммы помогли Церкви в самом её начале? Как Эмма и Джозеф помогали друг другу и относились друг к другу?
