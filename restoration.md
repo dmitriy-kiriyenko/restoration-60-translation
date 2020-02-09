@@ -1,4 +1,4 @@
-![](https://downloader.disk.yandex.ru/preview/3ba868641b457515f0b302626c689350324e8de60fa528a97cf55808b8872995/5e3be3b4/c5F7SZjDqOhhwKDa3NWRltQkaUMprGwZuaL5QZ6GUub0HRD_z4c-tbyHqdllatlDa6vnIV_ZlVuN5_nyfhaFzA==?uid=0&filename=60-Day-Restoration-Countdown.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=32319277&size=2048x2048)
+![](https://raw.githubusercontent.com/dmitriy-kiriyenko/restoration-60-translation/master/images/60-Day-Restoration-Countdown.jpg?token=AAA6MDQOBHZXZKWZOOSSNP26H6TH2)
 
 # Введение
 
