@@ -1,5 +1,6 @@
 ---
 title: Изучи Восстановление за 60 дней
+redirect_from: "/"
 ---
 
 ![](resources/images/60-Day-Restoration-Countdown.jpg)

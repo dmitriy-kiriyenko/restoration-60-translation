@@ -1,2 +1,4 @@
 title: Изучи Восстановление за 60 дней
 lang: ru-ru
+plugins:
+  - jekyll-redirect-from
