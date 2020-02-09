@@ -1,5 +1,6 @@
 ---
 title: Изучи Восстановление за 60 дней
+layout: restoration60
 redirect_from: "/"
 ---
 
