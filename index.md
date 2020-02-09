@@ -1,3 +1,7 @@
+---
+title: Изучи Восстановление за 60 дней
+---
+
 ![](https://raw.githubusercontent.com/dmitriy-kiriyenko/restoration-60-translation/master/images/60-Day-Restoration-Countdown.jpg?token=AAA6MDQOBHZXZKWZOOSSNP26H6TH2)
 
 # Введение

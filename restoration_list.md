@@ -1,3 +1,8 @@
+---
+title: Изучи Восстановление за 60 дней -- расписание
+---
+
+
 День 1 – Что такое Восстановление? Почему оно необходимо? Прочитайте статью ["Что, почему и как: анализ Восстановления"](https://www.churchofjesuschrist.org/study/liahona/2018/04/youth/what-why-and-how-a-breakdown-of-the-restoration?lang=rus) в апрельском журнале Лиахона за 2018 год.
 
 День 2 – Прочитайте выступление ["Как Господь подготовил мир к Восстановлению"](https://www.churchofjesuschrist.org/study/liahona/2020/01/how-the-lord-prepared-the-world-for-the-restoration?lang=rus) президента Рассела Балларда. Взгляд в прошлое действительно помогает нам понять, как Господь подготовил путь для некоторых нужных событий. Теперь подумайте о благословениях, которыми вы наслаждаетесь. Какие вещи должны были произойти "только для того", чтобы вы сейчас были там, где вы есть?
@@ -70,7 +75,7 @@
 
 День 36 – Прочитайте о [восстановлении Священства Мелхиседекова](https://www.churchofjesuschrist.org/study/history/topics/restoration-of-the-melchizedek-priesthood?lang=rus) в разделе Церковной истории.
 
-День 37 – Посмотрите Серию 9 - Восстановление Священства ([Episode 9 – Restoration of the Priesthoods](https://www.churchofjesuschrist.org/media-library/video/2009-02-1009-episode-9-restoration-of-the-priesthoods?category=episodes-0-9&lang=eng)) из проекта Бумаги Джозефа Смита (28:35). Тут исследуется возложение божественной власти небесными посланниками на Джозефа Смита и Оливера Каудери и важность этих событий для последующего развития Церкви. 
+День 37 – Посмотрите Серию 9 - Восстановление Священства ([Episode 9 – Restoration of the Priesthoods](https://www.churchofjesuschrist.org/media-library/video/2009-02-1009-episode-9-restoration-of-the-priesthoods?category=episodes-0-9&lang=eng)) из проекта Бумаги Джозефа Смита (28:35). Тут исследуется возложение божественной власти небесными посланниками на Джозефа Смита и Оливера Каудери и важность этих событий для последующего развития Церкви.
 
 День 38 – Прочитайте [Удостоверение Трёх Свидетелей](https://www.churchofjesuschrist.org/study/scriptures/bofm/three?lang=rus), находящееся в начале Книги Мормона. Прочитайте [статью “Опыт Трех Свидетелей”](https://www.churchofjesuschrist.org/study/manual/revelations-in-context/the-experience-of-the-three-witnesses?lang=rus).
 
