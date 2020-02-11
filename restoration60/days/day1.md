@@ -1,5 +1,7 @@
 ---
 title: Дeнь 1 | Изучи восстановление за 60 дней
+header: День 1
+description: Изучи Восстановление за 60 дней
 layout: restoration60
 redirect_from: "/restoration60/today"
 ---

@@ -21,7 +21,7 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name">{{ page.header | default: page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="/restoration60/" class="btn">Список дней изучения</a>
     </header>
@@ -29,6 +29,14 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      {% if page.translated_by and page.translated_from and page.translated_from_title %}
+      <small>
+        Текст переведён
+        {{ page.translated_by }}
+        с
+        <a href="{{ page.translated_from }}">{{ page.translated_from_title }}</a>.
+      </small>
+      {% endif %}
       <footer class="site-footer">
         <ul>
           <li> <a href="/restoration60/">Список дней изучения</a> </li>
