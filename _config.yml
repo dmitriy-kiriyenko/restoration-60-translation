@@ -2,3 +2,4 @@ title: Евангельские темы
 lang: ru-ru
 plugins:
   - jekyll-redirect-from
+theme: jekyll-theme-cayman
