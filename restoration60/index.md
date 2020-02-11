@@ -4,7 +4,7 @@ layout: restoration60
 redirect_from: "/"
 ---
 
-![](resources/images/60-Day-Restoration-Countdown.jpg)
+![](assets/images/60-Day-Restoration-Countdown.jpg)
 
 ## Введение
 
