@@ -1,10 +1,10 @@
 ---
 title: Изучи Восстановление за 60 дней
-layout: restoration60
+layout: restoration60_main
 redirect_from: "/"
 ---
 
-![](assets/images/60-Day-Restoration-Countdown.jpg)
+<img src='assets/images/60-Day-Restoration-Countdown.jpg' class='center' />
 
 ## Введение
 
@@ -144,6 +144,6 @@ redirect_from: "/"
 
 **10 апреля** – Восстановление продолжается сегодня! Президент Рассел Нельсон сказал “мы свидетели процесса восстановления. Если вы думаете, что Церковь восстановлена полностью, то вы видите только начало этого. Предстоит ещё много всего. Подождите следующего года, а потом и следующего. Ешьте витамины, отдыхайте. Будет просто захватывающе!” Запишите или обсудите, как события Восстановления благословили вашу жизнь.
 
-<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+<small>
   Текст переведён Дмитрием Кириенко и Антоном Ильиным с <a href="https://www.agospelcenteredhome.com/2020/02/02/study-the-restoration-a-60-day-countdown/">сайта A Gospel Centered Home</a>.
-</div>
+</small>

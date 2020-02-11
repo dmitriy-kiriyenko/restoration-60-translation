@@ -20,17 +20,22 @@
     <link rel="stylesheet" href="{{ "/restoration60/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="/restoration60/" class="btn">Список дней изучения</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        <a href="/restoration60">Список дней изучения</a>.
-      </div>
-
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        Нашли опечатку? {% github_edit_link "Помогите исправить!" %}
-      </div>
-    </div>
+      <footer class="site-footer">
+        <ul>
+          <li> <a href="/restoration60/">Список дней изучения</a> </li>
+          <li>Нашли опечатку? {% github_edit_link "Помогите исправить!" %}</li>
+        </ul>
+      </footer>
+    </main>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
