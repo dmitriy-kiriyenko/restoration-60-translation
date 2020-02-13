@@ -35,7 +35,7 @@ redirect_from: "/"
 
 **13 февраля** – Прочитайте о [Джозефе Смите старшем](articles/joseph_smith_sr) в нашем собственном переводе статьи ([Joseph Smith, Sr.](https://www.churchofjesuschrist.org/study/new-era/1973/12/of-goodly-parents/joseph-smith-sr?lang=eng)) из декабрьского журнала New Era за 1973 год. Какие качества Джозеф Смит младший унаследовал у своего отца и его предков? Как эти качества помогли Джозефу Смиту в его жизни?
 
-**14 февраля** – Прочитайте о Люси Мак Смит ([Lucy Mack Smith](https://www.churchofjesuschrist.org/study/new-era/1973/12/of-goodly-parents/lucy-mack-smith?lang=eng)) в декабрьском журнале New Era за 1973 год. Какие качества Джозеф Смит младший унаследовал у своей матери и её предков? Как эти качества помогли Джозефу Смиту в его жизни?
+**14 февраля** – Прочитайте о [Люси Мак Смит](articles/lucy_mack_smith) в нашем собственном переводе статьи ([Lucy Mack Smith](https://www.churchofjesuschrist.org/study/new-era/1973/12/of-goodly-parents/lucy-mack-smith?lang=eng)) из декабрьского журнала New Era за 1973 год. Какие качества Джозеф Смит младший унаследовал у своей матери и её предков? Как эти качества помогли Джозефу Смиту в его жизни?
 
 **15 февраля** - Прочитайте "[Иакова 1:5-7](https://allbible.info/bible/sinodal/jas/1#5-7)". Чему учит нас Иаков о получении откровений? Почему Джозеф получил такое замечательное видение, когда многие другие молились с верой, но не увидели Отца с Сыном. Прочитайте послание ["Первое видение: образец получения личного откровения"](https://www.churchofjesuschrist.org/study/liahona/2020/02/the-first-vision-a-pattern-for-personal-revelation?lang=rus) от президента Генри Айринга.
 
