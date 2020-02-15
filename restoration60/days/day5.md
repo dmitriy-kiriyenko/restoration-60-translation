@@ -1,0 +1,11 @@
+---
+title: Дeнь 5 | Изучи восстановление за 60 дней
+header: День 5
+description: Изучи Восстановление за 60 дней
+layout: restoration60
+redirect_from: "/restoration60/today"
+---
+
+# 15 февраля, день пятый
+
+Прочитайте "[Иакова 1:5-7](https://allbible.info/bible/sinodal/jas/1#5-7)". Чему учит нас Иаков о получении откровений? Почему Джозеф получил такое замечательное видение, когда многие другие молились с верой, но не увидели Отца с Сыном. Прочитайте послание ["Первое видение: образец получения личного откровения"](https://www.churchofjesuschrist.org/study/liahona/2020/02/the-first-vision-a-pattern-for-personal-revelation?lang=rus) от президента Генри Айринга.
