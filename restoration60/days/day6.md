@@ -8,4 +8,4 @@ redirect_from: "/restoration60/today"
 
 # 16 февраля, день пятый
 
-Прослушайте или [прочитайте перевод расшифровки](articles/podcast_first_vision_episode_1) первого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
+Прослушайте или [прочитайте перевод расшифровки](/restoration60/articles/podcast_first_vision_episode_1) первого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
