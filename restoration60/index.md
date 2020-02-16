@@ -39,9 +39,9 @@ redirect_from: "/"
 
 **15 февраля** - Прочитайте "[Иакова 1:5-7](https://allbible.info/bible/sinodal/jas/1#5-7)". Чему учит нас Иаков о получении откровений? Почему Джозеф получил такое замечательное видение, когда многие другие молились с верой, но не увидели Отца с Сыном. Прочитайте послание ["Первое видение: образец получения личного откровения"](https://www.churchofjesuschrist.org/study/liahona/2020/02/the-first-vision-a-pattern-for-personal-revelation?lang=rus) от президента Генри Айринга.
 
-**16 февраля** – Прослушайте или [прочитайте перевод расшифровки](articles/podcast_first_vision_episode_1) первого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
+**16 февраля** – Прослушайте или [прочитайте наш собственный перевод расшифровки](articles/podcast_first_vision_episode_1) первого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
-**17 февраля** – Прослушайте или прочитайте расшифровку второго эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
+**17 февраля** – Прослушайте или [прочитайте наш собственный перевод расшифровки](articles/podcast_first_vision_episode_2) второго эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
 **18 февраля** – Прослушайте или прочитайте расшифровку третьего эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
