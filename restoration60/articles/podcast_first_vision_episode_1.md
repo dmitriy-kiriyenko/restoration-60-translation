@@ -2,7 +2,7 @@
 title: Эпизод 1, "Необычное волнение"
 header: Эпизод 1, "Необычное волнение" подкаста "Первое видение"
 description: Изучи Восстановление за 60 дней
-translated_by: Еленой Степаненко
+translated_by: Еленой Сорокиной
 translated_from: https://www.josephsmithpapers.org/articles/the-first-vision-podcast-episode-1-transcript
 translated_from_title: проекта "Бумаги Джозефа Смита"
 layout: restoration60
