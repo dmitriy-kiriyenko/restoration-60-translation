@@ -3,7 +3,6 @@ title: Дeнь 6 | Изучи восстановление за 60 дней
 header: День 6
 description: Изучи Восстановление за 60 дней
 layout: restoration60
-redirect_from: "/restoration60/today"
 ---
 
 # 16 февраля, день шестой
