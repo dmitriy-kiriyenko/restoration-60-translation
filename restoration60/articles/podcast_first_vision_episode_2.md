@@ -1,6 +1,6 @@
 ---
-title: Эпизод 1, "Что должно было свершиться"
-header: Эпизод 1, "Что должно было свершиться"
+title: Эпизод 2, "Что должно было свершиться"
+header: Эпизод 2, "Что должно было свершиться"
 description: Изучи Восстановление за 60 дней
 translated_by: Дмитрием Кириенко
 translated_from: https://www.josephsmithpapers.org/articles/the-first-vision-podcast-episode-2-transcript
