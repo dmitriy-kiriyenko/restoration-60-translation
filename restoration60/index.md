@@ -43,7 +43,7 @@ redirect_from: "/"
 
 **17 февраля** – Прослушайте или [прочитайте наш собственный перевод расшифровки](articles/podcast_first_vision_episode_2) второго эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
-**18 февраля** – Прослушайте или прочитайте расшифровку третьего эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
+**18 февраля** – Прослушайте или [прочитайте наш собственный перевод расшифровки](articles/podcast_first_vision_episode_3) третьего эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
 **19 февраля** – Прослушайте или прочитайте расшифровку четвёртого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
