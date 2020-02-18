@@ -45,7 +45,7 @@ redirect_from: "/"
 
 **18 февраля** – Прослушайте или [прочитайте наш собственный перевод расшифровки](articles/podcast_first_vision_episode_3) третьего эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
-**19 февраля** – Прослушайте или прочитайте расшифровку четвёртого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
+**19 февраля** – Прослушайте или [прочитайте наш собственный перевод расшифровки](articles/podcast_first_vision_episode_4) четвёртого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
 **20 февраля** – Прочитайте историю ([Joseph Smith History (1832)](https://history.churchofjesuschrist.org/content/library/joseph-smith-history-1832?lang=eng)) первого записанного свидетельства о Первом Видении. Потом прочитайте [само свидетельство](https://www.churchofjesuschrist.org/study/manual/first-vision-accounts/1832-account?lang=rus). Что вы отметили в прочитанном?
 
