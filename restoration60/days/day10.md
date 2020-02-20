@@ -3,6 +3,7 @@ title: Дeнь 10 | Изучи восстановление за 60 дней
 header: День 10
 description: Изучи Восстановление за 60 дней
 layout: restoration60
+redirect_from: "/restoration60/today"
 ---
 
 # 20 февраля, день десятый
