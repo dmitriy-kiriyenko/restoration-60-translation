@@ -6,6 +6,6 @@ layout: restoration60
 redirect_from: "/restoration60/today"
 ---
 
-# 21 февраля, день десятый
+# 21 февраля, день одиннадцатый
 
 Прочитайте [наш собственный перевод истории](/restoration60/articles/account_2_history) ([Joseph Smith Journal (1835)](https://history.churchofjesuschrist.org/content/library/joseph-smith-journal-1835?lang=eng)) второго записанного свидетельства о Первом Видении. Потом прочитайте [само свидетельство](https://www.churchofjesuschrist.org/study/manual/first-vision-accounts/1835-account?lang=rus). Что вы отметили в прочитанном? Что отличается от первого свидетельства? Что совпадает?
