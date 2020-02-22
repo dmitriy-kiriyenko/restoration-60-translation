@@ -1,6 +1,6 @@
 ---
-title: Дневник Джозефа Смита (1835)
-header: Дневник Джозефа Смита (1835)
+title: История Джозефа Смита (1838)
+header: История Джозефа Смита (1838)
 description: Изучи Восстановление за 60 дней
 translated_by: Дмитрием Кириенко
 translated_from: https://history.churchofjesuschrist.org/content/library/joseph-smith-history-1838?lang=eng
