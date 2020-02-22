@@ -3,6 +3,7 @@ title: Дeнь 12 | Изучи восстановление за 60 дней
 header: День 12
 description: Изучи Восстановление за 60 дней
 layout: restoration60
+redirect_from: "/restoration60/today"
 ---
 
 # 22 февраля, день двенадцатый
