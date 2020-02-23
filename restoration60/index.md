@@ -55,7 +55,7 @@ redirect_from: "/"
 
 **23 февраля** – Прочитайте [наш собственный перевод истории](/restoration60/articles/account_4_history)  ([Receiving a Promise](https://history.churchofjesuschrist.org/content/restoration/receiving-a-promise?lang=eng)) последнего записанного свидетельства о Первом Видении. Потом прочитайте [само свидетельство](https://www.churchofjesuschrist.org/study/manual/first-vision-accounts/1842-account?lang=rus). Что вы отметили в прочитанном? Что отличается от трёх других свидетельств? Что совпадает?
 
-**24 февраля** – Посмотрите сюжет (есть субтитры на русском) ["Попросите у Бога: Первое Видение Джозефа Смита"](https://www.youtube.com/watch?v=r0yPBSJwe2s) ([Ask of God: Joseph Smith's First Vision](https://www.churchofjesuschrist.org/media-library/video/2017-01-0100-ask-of-god-joseph-smiths-first-vision?lang=eng)) или почитайте расшифровку там же.
+**24 февраля** – Посмотрите сюжет ["Попросите у Бога: Первое Видение Джозефа Смита"](https://www.youtube.com/watch?v=r0yPBSJwe2s) (мы добавили субтитры на русском языке) ([Ask of God: Joseph Smith's First Vision](https://www.churchofjesuschrist.org/media-library/video/2017-01-0100-ask-of-god-joseph-smiths-first-vision?lang=eng)).
 
 **25 февраля** – Прослушайте или прочитайте расшифровку пятого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
