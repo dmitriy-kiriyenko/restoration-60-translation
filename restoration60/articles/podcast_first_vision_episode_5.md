@@ -3,7 +3,7 @@ title: Эпизод 5, "Это побудило меня к серьёзным �
 header: Эпизод 5, "Это побудило меня к серьёзным размышлениям"
 description: Изучи Восстановление за 60 дней
 translated_by: Дмитрием Кириенко
-translated_from: https://www.josephsmithpapers.org/articles/the-first-vision-podcast-episode-4-transcript
+translated_from: https://www.josephsmithpapers.org/articles/the-first-vision-podcast-episode-5-transcript
 translated_from_title: проекта "Бумаги Джозефа Смита"
 layout: restoration60
 ---
