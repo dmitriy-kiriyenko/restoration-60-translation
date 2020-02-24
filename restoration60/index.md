@@ -57,9 +57,9 @@ redirect_from: "/"
 
 **24 февраля** – Посмотрите сюжет ["Попросите у Бога: Первое Видение Джозефа Смита"](https://www.youtube.com/watch?v=r0yPBSJwe2s) (мы добавили субтитры на русском языке) ([Ask of God: Joseph Smith's First Vision](https://www.churchofjesuschrist.org/media-library/video/2017-01-0100-ask-of-god-joseph-smiths-first-vision?lang=eng)).
 
-**25 февраля** – Прослушайте или прочитайте расшифровку пятого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
+**25 февраля** – Прослушайте или [прочитайте наш собственный перевод расшифровки](articles/podcast_first_vision_episode_5) пятого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
-**26 февраля** – Прослушайте или прочитайте расшифровку шестого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
+**26 февраля** – Прослушайте или [прочитайте наш собственный перевод расшифровки](articles/podcast_first_vision_episode_6) шестого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast)).
 
 **27 февраля** – Изучите страницу "Первое Видение: Путешествие в Священную Рощу" ([The First Vision: Journey to the Sacred Grove](https://history.churchofjesuschrist.org/story/historic-sites/new-york/palmyra/first-vision?lang=eng)), прочитав всё и посмотрев все видео.
 
