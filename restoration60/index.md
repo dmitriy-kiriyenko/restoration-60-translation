@@ -55,7 +55,7 @@ redirect_from: "/"
 
 **23 февраля** – Прочитайте [наш собственный перевод истории](/restoration60/articles/account_4_history)  ([Receiving a Promise](https://history.churchofjesuschrist.org/content/restoration/receiving-a-promise?lang=eng)) последнего записанного свидетельства о Первом Видении. Потом прочитайте [само свидетельство](https://www.churchofjesuschrist.org/study/manual/first-vision-accounts/1842-account?lang=rus). Что вы отметили в прочитанном? Что отличается от трёх других свидетельств? Что совпадает?
 
-**24 февраля** – Посмотрите сюжет ["Попросите у Бога: Первое Видение Джозефа Смита"](https://www.youtube.com/watch?v=r0yPBSJwe2s) (мы добавили субтитры на русском языке) ([Ask of God: Joseph Smith's First Vision](https://www.churchofjesuschrist.org/media-library/video/2017-01-0100-ask-of-god-joseph-smiths-first-vision?lang=eng)).
+**24 февраля** – Посмотрите сюжет ["Да просит у Бога: Первое Видение Джозефа Смита"](https://www.youtube.com/watch?v=r0yPBSJwe2s) (мы добавили субтитры на русском языке) ([Ask of God: Joseph Smith's First Vision](https://www.churchofjesuschrist.org/media-library/video/2017-01-0100-ask-of-god-joseph-smiths-first-vision?lang=eng)).
 
 **25 февраля** – Прослушайте или [прочитайте наш собственный перевод расшифровки](articles/podcast_first_vision_episode_5) пятого эпизода подкаста "Первое видение: Бумаги Джозефа Смита" ([The First Vision: A Joseph Smith Papers Podcast](https://www.josephsmithpapers.org/articles/the-first-vision-a-joseph-smith-papers-podcast))
 
@@ -65,7 +65,7 @@ redirect_from: "/"
 
 **28 февраля** – Сравните Первое Видение с крещением Христа ([от Матфея, 3](https://allbible.info/bible/sinodal/mt/3/)) и Горой Преображения ([от Матфея 17:1-13](http://allbible.info/bible/sinodal/mt/17#1-13)). Прочитайте [Учение и Заветы 130:22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130.22?lang=rus#21). Обсудите, как вы созданы по образу и подобию Бога. Какое значение имеет для вас то, что Бог знает ваше имя и знает о вас всё?
 
-**29 февраля** – Посетите интернет-выставку о Первом Видении ([The First Vision](https://www.josephsmith.net/exhibit/js-the-first-vision?lang=eng)). Нажмите на каждом экспонате, чтобы увидеть его ближе и прочитать описание. Если чувствуете вдохновение, можете создать своё произведение искусства.
+**29 февраля** – Посетите наш [собственный перевод интернет-выставки о Первом Видении](/restoration60/articles/journey_to_the_sacred_grove.html) ([The First Vision](https://www.josephsmith.net/exhibit/js-the-first-vision?lang=eng)). Нажмите на каждом экспонате, чтобы увидеть его ближе и прочитать описание. Если чувствуете вдохновение, можете создать своё произведение искусства.
 
 **1 марта** – Теперь, когда вы изучали Первое Видение на протяжении двух недель, запишите некоторые истины, которые были открыты или восстановлены в результате Первого Видения Джозефа Смита. Прочитайте ["Восемь истин, открытых благодаря Первому видению"](https://www.churchofjesuschrist.org/study/liahona/2020/02/eight-truths-from-the-first-vision?lang=rus). Сравните.
 
