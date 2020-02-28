@@ -3,7 +3,6 @@ title: Дeнь 17 | Изучи восстановление за 60 дней
 header: День 17
 description: Изучи Восстановление за 60 дней
 layout: restoration60
-redirect_from: "/restoration60/today"
 ---
 
 # 27 февраля, день семнадцатый
