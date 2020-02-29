@@ -3,6 +3,7 @@ title: Дeнь 19 | Изучи восстановление за 60 дней
 header: День 19
 description: Изучи Восстановление за 60 дней
 layout: restoration60
+redirect_from: "/restoration60/today"
 ---
 
 # 29 февраля, день девятнадцатый
