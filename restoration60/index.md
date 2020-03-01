@@ -69,7 +69,7 @@ redirect_from: "/"
 
 **1 марта** – Теперь, когда вы изучали Первое Видение на протяжении двух недель, запишите некоторые истины, которые были открыты или восстановлены в результате Первого Видения Джозефа Смита. Прочитайте ["Восемь истин, открытых благодаря Первому видению"](https://www.churchofjesuschrist.org/study/liahona/2020/02/eight-truths-from-the-first-vision?lang=rus). Сравните.
 
-**2 марта** – Прочитайте первые пять абзацев и раздел “Первые четыре посещения” из статьи “Мороний: Учитель Джозефа Смита” ([Moroni﻿ – Joseph Smith’s Tutor](https://www.churchofjesuschrist.org/study/ensign/1992/01/moroni-joseph-smiths-tutor?lang=eng)). Какие важные послания получил Джозеф Смит от Морония?
+**2 марта** – Прочитайте первые пять абзацев и раздел “Первые четыре посещения” в [нашем собственном переводе статьи “Мороний: Учитель Джозефа Смита”](/restoration60/articles/moroni) ([Moroni﻿ – Joseph Smith’s Tutor](https://www.churchofjesuschrist.org/study/ensign/1992/01/moroni-joseph-smiths-tutor?lang=eng)). Какие важные послания получил Джозеф Смит от Морония?
 
 **3 марта** – Прочитайте [Малахия 3](https://allbible.info/bible/sinodal/mal/3/) и [4](https://allbible.info/bible/sinodal/mal/4/), пророчества Ветхого Завета, которые цитировал Мороний. Прочитайте [Джозеф Смит – История 1:37-39](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1.37-39?lang=rus#36) и обсудите или запишите, что вы поняли из этих стихов о важности семей.
 
