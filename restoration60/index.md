@@ -75,7 +75,7 @@ redirect_from: "/"
 
 **4 марта** – Прочитайте [Исайя 11](https://allbible.info/bible/sinodal/isa/11/), [Деяния 3:22-23](http://allbible.info/bible/sinodal/ac/3#22-23) и [Иоиль 2:28-32](http://allbible.info/bible/sinodal/joe/2#28-32) - все писания, которые цитировал Мороний. Каким учениям учил Мороний Джозефа Смита? Как они применимы к вам сегодня?
 
-**5 марта** – Прочитайте раздел "Холм Кумора" в статье “Мороний: Учитель Джозефа Смита” ([Moroni: Joseph Smith’s Tutor](https://www.churchofjesuschrist.org/study/ensign/1992/01/moroni-joseph-smiths-tutor?lang=eng)). Чему научился Джозеф из своего первого визита на холм? Каким урокам научился Джозеф во время этих визитов? Как они применимы к вам сегодня?
+**5 марта** – Прочитайте раздел "Холм Кумора" в [нашем собственном переводе статьи “Мороний: Учитель Джозефа Смита”](/restoration60/articles/moroni) ([Moroni: Joseph Smith’s Tutor](https://www.churchofjesuschrist.org/study/ensign/1992/01/moroni-joseph-smiths-tutor?lang=eng)). Чему научился Джозеф из своего первого визита на холм? Каким урокам научился Джозеф во время этих визитов? Как они применимы к вам сегодня?
 
 **6 марта** – Прочитайте разделы "Визит на Кумору в 1824" и "Визиты Морония, 1824-1827" в статье “Мороний: Учитель Джозефа Смита” ([Moroni: Joseph Smith’s Tutor](https://www.churchofjesuschrist.org/study/ensign/1992/01/moroni-joseph-smiths-tutor?lang=eng)).
 
