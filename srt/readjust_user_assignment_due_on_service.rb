@@ -299,407 +299,418 @@ circumstances in the cabin that night
 
 74
 00:03:43,239 --> 00:03:47,930
+Он был в бревенчатом доме и
 he's in the the log home and there's
 
 75
 00:03:47,930 --> 00:03:50,150
-only so much space in Essaouira and 1/2
+там было не очень много места, и
 
 76
 00:03:50,150 --> 00:03:54,979
-log cabin a log house and has he picked
+по этому бревенчатому дому
 
 77
 00:03:54,979 --> 00:03:57,949
-his way among the the beds and
+он пробрался между кроватями
 
 78
 00:03:57,949 --> 00:04:01,129
-conceivably some straw eggs there are
+осторожно, чтобы не разбудить
 
 79
 00:04:01,129 --> 00:04:03,919
-those who are lying in repose about him
+тех, кто отдыхает
 
 80
 00:04:03,919 --> 00:04:07,900
-and he's offering up here his whole soul
+и вот он открывает всю свою душу
 
 81
 00:04:07,900 --> 00:04:11,449
-to his father in heaven historian
+своему Небесному Отцу.
+Историк
 
 82
 00:04:11,449 --> 00:04:14,150
-Stephen Harper using Joseph's first
+Стивен Харпер, используя первое свидетельство
 
 83
 00:04:14,150 --> 00:04:17,269
-account written in 1832 picks up the
+Джозефа, записанное в 1832 году выбирает
 
 84
 00:04:17,269 --> 00:04:19,579
-narrative and points out what it was
+историю и указывает, что это
 
 85
 00:04:19,579 --> 00:04:23,030
-that night that so wrought upon Joseph's
+былна та ночь, которая так сильно запечатлелась
 
 86
 00:04:23,030 --> 00:04:25,250
-mind three and a half years after
+в разуме Джозефа.
+Через три с половиной года после
 
 87
 00:04:25,250 --> 00:04:27,710
-Joseph's first vision he knelt by his
+Первого видения, Джозеф встал на колени
 
 88
 00:04:27,710 --> 00:04:29,990
-bedside to ask forgiveness he said he'd
+у своей кровати, чтобы попросить прощения. Он сказал, что
 
 89
 00:04:29,990 --> 00:04:34,010
-fallen into some sins again and he knew
+он опять подвергся каким-то грехам, и он знал
 
 90
 00:04:34,010 --> 00:04:36,050
-that he could receive forgiveness of his
+что он может получить прощение своих
 
 91
 00:04:36,050 --> 00:04:38,510
-sins I fell he says into transgression
+грехов. "Я предался", говорит он, "согрешениям",
 
 92
 00:04:38,510 --> 00:04:42,830
-and let me make sure I can read the
+так, дайне мне убедиться, что я правильно читаю,
 
 93
 00:04:42,830 --> 00:04:46,009
-words and send in many things which
+"и согрешил в многих вещах, что
 
 94
 00:04:46,009 --> 00:04:50,030
-brought a wound to my soul and there
+нанесло моей душе раны,
 
 95
 00:04:50,030 --> 00:04:52,070
-were many things he says which
+и многое", говорит он, "из того,
 
 96
 00:04:52,070 --> 00:04:54,380
-transpired that cannot be written and my
+что произошло, не может быть записано,
 
 97
 00:04:54,380 --> 00:04:59,080
-father's family had been persecuted he
+и семью моего отца преследовали",
 
 98
 00:04:59,080 --> 00:05:01,030
-because of his first vision and when I
+говорит он, из-за его первого видения,
 
 99
 00:05:01,030 --> 00:05:03,970
-was 17 years of age perhaps I can see
+"и когда мне было 17 лет", кажется, я вижу именно
 
 100
 00:05:03,970 --> 00:05:07,569
-that I called again upon the Lord and he
+эти слова, "Я воззвал к Господу и Он
 
 101
 00:05:07,569 --> 00:05:10,900
-showed unto me a heavenly vision for
+показал мне небесное видение, ибо вот
 
 102
 00:05:10,900 --> 00:05:12,729
-behold an angel of the Lord came and
+ангел Господний явился и
 
 103
 00:05:12,729 --> 00:05:15,039
-stood before me and it was by night and
+стоял передо мной, и это было ночью,
 
 104
 00:05:15,039 --> 00:05:17,469
-he called me by name and he said that
+и он назвал меня по имени, и он сказал,
 
 105
 00:05:17,469 --> 00:05:20,469
-the Lord had forgiven my sins and he
+что Господь простил мои грехи, и он
 
 106
 00:05:20,469 --> 00:05:23,229
-revealed to me that there was a book a
+открыл мне, что есть книга",
 
 107
 00:05:23,229 --> 00:05:25,780
-book of Mormon as we know it today
+книга Мормона, как мы сейчас знаем,
 
 108
 00:05:25,780 --> 00:05:28,060
-buried in a hill engravings you can see
+"сокрытая в захоронении в холме", вы видите,
 
 109
 00:05:28,060 --> 00:05:29,759
+кажется, слово "захоронение", вот здесь,
 the word perhaps right there engravings
 
 110
 00:05:29,759 --> 00:05:33,729
-which was in graven by Moroni and his
+"которая была сохранена Моронием
 
 111
 00:05:33,729 --> 00:05:38,919
-father's Joseph says that when I told
+и его отцом", говорит Джозеф, и Мороний сказал
 
 112
 00:05:38,919 --> 00:05:40,750
-him I should go and get them that is the
+что "я должен пойти и взять эти писания,
 
 113
 00:05:40,750 --> 00:05:43,389
-plates that were in the hill that Moroni
+что это пластины, и что они сокрыты в холме",
+который Мороний
 
 114
 00:05:43,389 --> 00:05:46,150
-revealed to Joseph Smith and he revealed
+открыл Джозефу Смиту "и он открыл
 
 115
 00:05:46,150 --> 00:05:47,949
-unto me many things concerning the
+мне многое, относящееся
 
 116
 00:05:47,949 --> 00:05:50,620
-inhabitants of the earth which since
+к обитателям земли, что было открыто
 
 117
 00:05:50,620 --> 00:05:53,889
-have been revealed Joseph had gone to
+с того времени. Джозеф пошёл
 
 118
 00:05:53,889 --> 00:05:56,650
-the hill expecting to get the place so
+на холм, ожидая, что он получит пластины,
 
 119
 00:05:56,650 --> 00:05:58,840
-you can imagine his surprise when he was
+так что, можете представить себе его удивление,
 
 120
 00:05:58,840 --> 00:06:01,060
-forbidden to take them he would have had
+когда ему было запрещено их брать, наверно
 
 121
 00:06:01,060 --> 00:06:04,210
-no idea at that time that it would be
+на тот момент он понятия не имел, что пройдут
 
 122
 00:06:04,210 --> 00:06:07,300
-four years before he would be permitted
+четыре года, прежде, чем ему позволят
 
 123
 00:06:07,300 --> 00:06:11,560
-to receive the record Moroni who as you
+взять записи.
+Мороний, который, как вы
 
 124
 00:06:11,560 --> 00:06:14,680
-know is the in life the the prophet who
+знаете, при жизни был пророком, который
 
 125
 00:06:14,680 --> 00:06:16,509
-sealed up those plates and put them
+запечатал эти пластины и положил их
 
 126
 00:06:16,509 --> 00:06:18,520
+там для Джозефа, знаете, ни за что он не
 there for Joseph there's no way he's
 
 127
 00:06:18,520 --> 00:06:20,710
-going to hand over this sacred record
+отдаст эту священную запись в руки того,
 
 128
 00:06:20,710 --> 00:06:22,719
-somebody he doesn't have much confidence
+в ком он не имеет достаточно уверенности,
 
 129
 00:06:22,719 --> 00:06:25,419
-in and so he even talks to Joseph in the
+он даже разговаривает с Джозефом в самой
 
 130
 00:06:25,419 --> 00:06:27,960
-Book of Mormon itself and Moroni is
+книге Мормона и Мороний
 
 131
 00:06:27,960 --> 00:06:30,129
-determined that Joseph Smith is not
+определяет, что Джозеф Смит не получит
 
 132
 00:06:30,129 --> 00:06:32,319
-going to be in possession of those
+в своё распоряжение эти
 
 133
 00:06:32,319 --> 00:06:35,830
-plates until Joseph is capable capable
+пластины, пока он не способен, способен
 
 134
 00:06:35,830 --> 00:06:37,180
-of overcoming the overwhelming
+преодолеть захватывающие
 
 135
 00:06:37,180 --> 00:06:39,520
+искушения, с которыми он столкнётся, способен
 temptations he'll face capable of
 
 136
 00:06:39,520 --> 00:06:42,699
+выдержать давление и преследование,
 bearing up under the oppression the
 
 137
 00:06:42,699 --> 00:06:44,550
-persecution will come from outside
+с которыми он столкнётся.
 
 138
 00:06:44,550 --> 00:06:47,379
-something happened that first day on the
+Кое-что случилось в тот первый день
 
 139
 00:06:47,379 --> 00:06:49,719
-hill that caused Moroni to forbid
+на холме, из-за чего Моронию пришлось запретить
 
 140
 00:06:49,719 --> 00:06:52,240
-Joseph's possession of the plates in his
+Джозефу взять пластины. В своём свидетельстве
 
 141
 00:06:52,240 --> 00:06:55,900
-1832 account Joseph describes what
+1832 года Джозеф рассказывает,
 
 142
 00:06:55,900 --> 00:06:58,150
-happened a thrice he says made an
+что случилось. "Трижды", он говорит,
 
 143
 00:06:58,150 --> 00:07:01,779
-attempt to get them and I was
+"я пытался достать их, и меня
 
 144
 00:07:01,779 --> 00:07:03,969
-exceedingly frightened he says so three
+охватывал страх", он говорит, так что, три раза
 
 145
 00:07:03,969 --> 00:07:06,789
-times that first day at the hill Joseph
+в тот первый день на холме Джозеф
 
 146
 00:07:06,789 --> 00:07:08,529
-Smith tries to get the plates from the
+Смит пытается достать пластины из
 
 147
 00:07:08,529 --> 00:07:10,810
-box he can't and he's frightened he
+ящика. Он не может, и он испуган.
 
 148
 00:07:10,810 --> 00:07:12,909
-therefore I cried unto the Lord
+"И я воззвал к Господу
 
 149
 00:07:12,909 --> 00:07:15,819
-in the agony of my soul josephus if
+в агонии моей души" -- Джозеф, если
 
 150
 00:07:15,819 --> 00:07:18,119
-you'll notice is a passionate speaker
+вы заметили, пылкий рассказик,
 
 151
 00:07:18,119 --> 00:07:20,830
-when you read Joseph's journal entries
+когда вы читаете дневники Джозефа,
 
 152
 00:07:20,830 --> 00:07:22,629
-that he writes himself they're always
+которые он пишет лично, они всегда
 
 153
 00:07:22,629 --> 00:07:24,939
-much more emotional much more passionate
+намного более эмоциональны, намного более пылки..
 
 154
 00:07:24,939 --> 00:07:27,969
-than very expressive individually so he
+он очень выразителен
 
 155
 00:07:27,969 --> 00:07:30,219
-felt deeply Joseph did it was a very
+...он глубоко чувствовал
+Это было
 
 156
 00:07:30,219 --> 00:07:32,949
-difficult thing for Joseph and he here
+очень тяжело для Джозефа, и он там
 
 157
 00:07:32,949 --> 00:07:34,389
-cries out to the Lord in the agony of
+взывает к Господу в агонии
 
 158
 00:07:34,389 --> 00:07:37,529
-his soul why can I not obtain this book
+своей души, "почему я не могу взять эту книгу.
 
 159
 00:07:37,529 --> 00:07:41,169
+и вот, появился ангел", говорит он, "
 behold the angel appeared he says and
 
 160
 00:07:41,169 --> 00:07:44,740
-unto me again and said unto me you have
+мне снова, и сказал:
 
 161
 00:07:44,740 --> 00:07:47,550
-not kept the commandments of the Lord
+Ты не соблядал заповедей Божьих,
 
 162
 00:07:47,550 --> 00:07:49,719
-which I gave unto you therefore you
+которые я дал тебе, так что, ты
 
 163
 00:07:49,719 --> 00:07:52,089
-cannot now obtain the book now the last
+не можешь взять книгу." Смотрите, когда
 
 164
 00:07:52,089 --> 00:07:53,800
-time Moroni I'd visit him the night
+Мороний навещал его в последний раз ночью,
 
 165
 00:07:53,800 --> 00:07:56,319
-before he had said you cannot have the
+он сказал, что ты не можешь взять
 
 166
 00:07:56,319 --> 00:07:58,419
-plates for wealth you can't you got to
+пластины для своего обогащения, не можешь, ты должен
 
 167
 00:07:58,419 --> 00:08:00,429
-beware of covetousness there's two
+остерегаться искушения, есть две цели,
 
 168
 00:08:00,429 --> 00:08:02,229
-things you can't have the plates for to
+ради которых ты не можешь получить пластины,
 
 169
 00:08:02,229 --> 00:08:05,169
-get famous and to get rich and so the
+это стать известным, и стать богатым,
 
 170
 00:08:05,169 --> 00:08:06,849
-ginn the next day when Morel and I comes
+так что, когда Мороний появляется на следующий день,
 
 171
 00:08:06,849 --> 00:08:08,830
-he emphasizes that point about
+он обращает особое внимание на этот момент
 
 172
 00:08:08,830 --> 00:08:10,929
-covetousness and this is a point we
+с жаждой славы либо денег. Тут
 
 173
 00:08:10,929 --> 00:08:12,939
-should we should dwell on for just a
+стоит остановиться
 
 174
 00:08:12,939 --> 00:08:13,959
-minute
+на несколько минут.
 
 175
 00:08:13,959 --> 00:08:15,610
