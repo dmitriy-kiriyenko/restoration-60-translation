@@ -83,7 +83,7 @@ redirect_from: "/"
 
 **8 марта** – Посмотрите [Серию 7 – Появление Книги Мормона](https://youtu.be/izXA_b6Y4Zo) (мы добавили субтитры на русском языке) ([Episode 7—The Coming Forth of the Book of Mormon](https://www.churchofjesuschrist.org/media-library/video/2009-02-1007-episode-7-the-coming-forth-of-the-book-of-mormon?lang=eng&_r=1)) из проекта Бумаги Джозефа Смита. (28:38 минут)
 
-**9 марта** – Посмотрите ответ на вопрос ["Как Джозеф Смит перевёл Книгу Мормона?"](https://www.youtube.com/embed/uDk4S_H9BvA?start=2853&end=3327&version=3) (смотрите до 55:39)  прозвучавший на “Божественном часе: Лицом к лицу со старейшиной Квентином Куком” 9 сентября 2018. ([How Did Joseph Smith Translate the Book of Mormon](https://www.churchofjesuschrist.org/media-library/video/2018-09-1080-how-did-joseph-smith-translate-the-book-of-mormon?lang=eng)).
+**9 марта** – Посмотрите ответ на вопрос ["Как Джозеф Смит перевёл Книгу Мормона?"](https://youtu.be/xURPabTdGT0) прозвучавший на “Божественном часе: Лицом к лицу со старейшиной Квентином Куком” 9 сентября 2018. ([How Did Joseph Smith Translate the Book of Mormon](https://www.churchofjesuschrist.org/media-library/video/2018-09-1080-how-did-joseph-smith-translate-the-book-of-mormon?lang=eng)).
 
 **10 марта** – Посмотрите видео сюжет “Пророческие камни и перевод Книги Мормона” ([Seer Stones and the Translation of the Book of Mormon](https://www.churchofjesuschrist.org/media-library/video/2017-11-0120-seer-stones-and-the-translation-of-the-book-of-mormon?lang=eng)) (5:00 минут)
 
