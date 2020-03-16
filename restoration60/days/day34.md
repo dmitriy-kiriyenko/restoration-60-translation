@@ -1,8 +1,7 @@
 ---
 title: Дeнь 34 | Изучи восстановление за 60 дней
 header: День 34
-description: Изучи Восстановление за 60 дней
-layout: restoration60
+description: Изучи Восстановление за 60 днейlayout: restoration60
 ---
 
 # 15 марта, день тридцать четвёртый
