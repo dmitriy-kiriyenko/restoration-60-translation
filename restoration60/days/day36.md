@@ -6,6 +6,6 @@ redirect_from: "/restoration60/today"
 layout: restoration60
 ---
 
-# 17 марта, день тридцать пятый
+# 17 марта, день тридцать шестой
 
 Прочитайте о [восстановлении Священства Мелхиседекова](https://www.churchofjesuschrist.org/study/history/topics/restoration-of-the-melchizedek-priesthood?lang=rus) в разделе Церковной истории.
