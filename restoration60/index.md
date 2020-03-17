@@ -101,7 +101,7 @@ redirect_from: "/"
 
 **17 марта** – Прочитайте о [восстановлении Священства Мелхиседекова](https://www.churchofjesuschrist.org/study/history/topics/restoration-of-the-melchizedek-priesthood?lang=rus) в разделе Церковной истории.
 
-**18 марта** – Посмотрите Серию 9 - Восстановление Священства ([Episode 9 – Restoration of the Priesthoods](https://www.churchofjesuschrist.org/media-library/video/2009-02-1009-episode-9-restoration-of-the-priesthoods?category=episodes-0-9&lang=eng)) из проекта Бумаги Джозефа Смита (28:35). Тут исследуется возложение божественной власти небесными посланниками на Джозефа Смита и Оливера Каудери и важность этих событий для последующего развития Церкви.
+**18 марта** – Посмотрите [Серию 9 - Восстановление Священства](https://youtu.be/jyUYmltJ8Fw) (мы добавили субтитры на русском языке) ([Episode 9 – Restoration of the Priesthoods](https://www.churchofjesuschrist.org/media-library/video/2009-02-1009-episode-9-restoration-of-the-priesthoods?category=episodes-0-9&lang=eng)) из проекта Бумаги Джозефа Смита (28:35). Тут исследуется возложение божественной власти небесными посланниками на Джозефа Смита и Оливера Каудери и важность этих событий для последующего развития Церкви.
 
 **19 марта** – Прочитайте [Удостоверение Трёх Свидетелей](https://www.churchofjesuschrist.org/study/scriptures/bofm/three?lang=rus), находящееся в начале Книги Мормона. Прочитайте [статью “Опыт Трех Свидетелей”](https://www.churchofjesuschrist.org/study/manual/revelations-in-context/the-experience-of-the-three-witnesses?lang=rus).
 
