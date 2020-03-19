@@ -105,7 +105,7 @@ redirect_from: "/"
 
 **19 марта** – Прочитайте [Удостоверение Трёх Свидетелей](https://www.churchofjesuschrist.org/study/scriptures/bofm/three?lang=rus), находящееся в начале Книги Мормона. Прочитайте [статью “Опыт Трех Свидетелей”](https://www.churchofjesuschrist.org/study/manual/revelations-in-context/the-experience-of-the-three-witnesses?lang=rus).
 
-**20 марта** – Прочитайте статью в New Era “Последний Свидетель из Трех Свидетелей” ([The Last Witness of the Three Witnesses](https://www.churchofjesuschrist.org/study/new-era/2020/01/the-last-witness-of-the-three-witnesses?lang=eng)).
+**20 марта** – Прочитайте [наш собственный перевод статьи в New Era “Последнее свидетельство трех свидетелей”](/restoration60/articles/three_witnesses) ([The Last Witness of the Three Witnesses](https://www.churchofjesuschrist.org/study/new-era/2020/01/the-last-witness-of-the-three-witnesses?lang=eng)).
 
 **21 марта** – Прочитайте [Удостоверение Восьми Свидетелей](https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=rus), находящееся в начале Книги Мормона. В чём отличие их свидетельства от свидетельства Трёх?
 
