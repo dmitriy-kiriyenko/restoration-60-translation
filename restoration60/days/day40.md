@@ -6,6 +6,6 @@ redirect_from: "/restoration60/today"
 layout: restoration60
 ---
 
-# 20 марта, день сороковой
+# 21 марта, день сороковой
 
 Прочитайте [Удостоверение Восьми Свидетелей](https://www.churchofjesuschrist.org/study/scriptures/bofm/eight?lang=rus), находящееся в начале Книги Мормона. В чём отличие их свидетельства от свидетельства Трёх?
