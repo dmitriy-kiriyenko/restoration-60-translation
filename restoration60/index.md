@@ -111,7 +111,7 @@ redirect_from: "/"
 
 **22 марта** – Прочитайте статью [Братья-служители](https://www.churchofjesuschrist.org/study/liahona/2018/09/chapter-7-fellow-servants?lang=rus), седьмую главу новой четырехтомной повествовательной истории Церкви, озаглавленной Святые: История Церкви Иисуса Христа в последние дни. Эта глава посвящена всем свидетелям Золотых Пластин, включая Мэри Уитмер. Как получение свидетельства помогло Мэри? Посмотрите [это видео](https://youtu.be/XtuJjtpUtsQ) (мы добавили русские субтитры), посвящённое её опыту, созданное Департаментом Церковной Истории.
 
-**23 марта** – Посмотрите Серию 13 – Печать и издания Книги Мормона ([Episode 13 – Book of Mormon Printing and Editions](https://www.churchofjesuschrist.org/media-library/video/2009-02-1013-episode-13-book-of-mormon-printing-and-editions?lang=eng&_r=1)) из проекта Бумаги Джозефа Смита (28:38)
+**23 марта** – Посмотрите [Серию 13 – Печать и издания Книги Мормона](https://youtu.be/FiCGsxRhszw) (мы добавили субтитры на русском языке) ([Episode 13 – Book of Mormon Printing and Editions](https://www.churchofjesuschrist.org/media-library/video/2009-02-1013-episode-13-book-of-mormon-printing-and-editions?lang=eng&_r=1)) из проекта Бумаги Джозефа Смита (28:38)
 
 **24 марта** – Прочитайте [Учение и Заветы 17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/17?lang=rus). Как Иисус Христос приносит Своё свидетельство об истинности Книги Мормона? Почему так важно самому знать, что Книга Мормона – это слово Божье?
 
