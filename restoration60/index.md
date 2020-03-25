@@ -115,9 +115,9 @@ redirect_from: "/"
 
 **24 марта** – Прочитайте [Учение и Заветы 17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/17?lang=rus). Как Иисус Христос приносит Своё свидетельство об истинности Книги Мормона? Почему так важно самому знать, что Книга Мормона – это слово Божье?
 
-**25 марта** – Составьте список из десяти или более истин, которые мы сегодня понимаем более ясно, благодаря тому, что у нас есть Книга Мормона. Прочитайте наш [собственный перевод статьи Простые и ясные восстановленные истины](/restoration60/articles/plain_and_precious) ([Plain and Precious Truths Restored](https://www.churchofjesuschrist.org/study/ensign/2006/10/plain-and-precious-truths-restored?lang=eng)) и сравните ваш список с приведённым в статье.
+**25 марта** – Составьте список из десяти или более истин, которые мы сегодня понимаем более ясно, благодаря тому, что у нас есть Книга Мормона. Прочитайте наш [собственный перевод статьи Простые и драгоценные истины восстановлены](/restoration60/articles/plain_and_precious) ([Plain and Precious Truths Restored](https://www.churchofjesuschrist.org/study/ensign/2006/10/plain-and-precious-truths-restored?lang=eng)) и сравните ваш список с приведённым в статье.
 
-**26 марта** – Прочитайте статью Шестое Апреля 1830 года: День, когда была организована Церковь ([April 6, 1830: The Day the Church was Organized](https://www.churchofjesuschrist.org/study/ensign/1971/01/april-6-1830-the-day-the-church-was-organized?lang=eng)).
+**26 марта** – Прочитайте [наш собственный перевод статьи "Шестое Апреля 1830 года: День, когда была организована Церковь"](/restoration60/articles/organized) ([April 6, 1830: The Day the Church was Organized](https://www.churchofjesuschrist.org/study/ensign/1971/01/april-6-1830-the-day-the-church-was-organized?lang=eng)).
 
 **27 марта** – Прочитайте [Призвание первых Апостолов Восстановления](https://www.churchofjesuschrist.org/study/liahona/2017/10/young-adults/five-lessons-for-young-adults-from-young-apostles/the-calling-of-the-restorations-original-apostles?lang=rus) в октябрьском номере Лиахоны за 2017 год. Чтобы узнать больше, можете прочитать И Он поставил одних Апостолами ([And He Gave Some Apostles](https://www.churchofjesuschrist.org/study/liahona/2001/09/and-he-gave-some-apostles?lang=eng)), чтобы узнать больше о обязанностях и призваниях апостолов.
 
