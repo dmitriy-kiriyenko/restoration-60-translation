@@ -115,7 +115,7 @@ redirect_from: "/"
 
 **24 марта** – Прочитайте [Учение и Заветы 17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/17?lang=rus). Как Иисус Христос приносит Своё свидетельство об истинности Книги Мормона? Почему так важно самому знать, что Книга Мормона – это слово Божье?
 
-**25 марта** – Составьте список из десяти или более истин, которые мы сегодня понимаем более ясно, благодаря тому, что у нас есть Книга Мормона. Прочитайте статью Простые и ясные восстановленные истины ([Plain and Precious Truths Restored](https://www.churchofjesuschrist.org/study/ensign/2006/10/plain-and-precious-truths-restored?lang=eng)) и сравните ваш список с приведённым в статье.
+**25 марта** – Составьте список из десяти или более истин, которые мы сегодня понимаем более ясно, благодаря тому, что у нас есть Книга Мормона. Прочитайте наш [собственный перевод статьи Простые и ясные восстановленные истины](/restoration60/articles/plain_and_precious) ([Plain and Precious Truths Restored](https://www.churchofjesuschrist.org/study/ensign/2006/10/plain-and-precious-truths-restored?lang=eng)) и сравните ваш список с приведённым в статье.
 
 **26 марта** – Прочитайте статью Шестое Апреля 1830 года: День, когда была организована Церковь ([April 6, 1830: The Day the Church was Organized](https://www.churchofjesuschrist.org/study/ensign/1971/01/april-6-1830-the-day-the-church-was-organized?lang=eng)).
 
