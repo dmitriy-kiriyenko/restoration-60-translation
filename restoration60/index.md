@@ -123,7 +123,7 @@ redirect_from: "/"
 
 **28 марта** – Через шестнадцать лет после Первого Видения Святые построили храм в Киртланде, штат Огайо. Прочитайте [Учение и Заветы 110](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=rus), чтобы узнать, какие древние пророки посетили Джозефа Смита и восстановили ключи священства.
 
-**29 марта** – Посмотрите Серию 27 – Облечение Силой и Торжественное Собрание ([Episode 27—The Kirtland Temple: Endowment of Power and Solemn Assembly](https://www.churchofjesuschrist.org/media-library/video/2009-02-1027-episode-27-the-kirtland-temple-endowment-of-power-and-solemn-assembly?lang=eng&_r=1)), где показываются события, произошедшие в Киртландском храме и как эти события изменили Церковь.
+**29 марта** – Посмотрите [Серию 27 – Облечение Силой и Торжественное Собрание](https://youtu.be/tZb3_egViu0) (мы добавили субтитры на русском языке) ([Episode 27—The Kirtland Temple: Endowment of Power and Solemn Assembly](https://www.churchofjesuschrist.org/media-library/video/2009-02-1027-episode-27-the-kirtland-temple-endowment-of-power-and-solemn-assembly?lang=eng&_r=1)), где показываются события, произошедшие в Киртландском храме и как эти события изменили Церковь.
 
 **30 марта** – Прочитайте [Крещение за умерших](https://www.churchofjesuschrist.org/study/history/topics/baptism-for-the-dead?lang=rus), чтобы узнать, как эту практику впервые восстановил в Наву Джозеф Смит. Совершали ли вы в храме крещение за ваших предков? Если да, запишите ваш опыт. Как вы себя чувствовали?
 
