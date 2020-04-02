@@ -131,7 +131,7 @@ redirect_from: "/"
 
 **1 апреля** – Посмотрите [Серию 44 – Основание женского общества милосердия](https://youtu.be/pDU05Oh0Z20) (мы добавили русские субтитры) ([Episode 44 - Foundations of the Women’s Relief Society](https://www.churchofjesuschrist.org/media-library/video/2009-02-1044-episode-44-foundations-of-the-womens-relief-society?lang=eng&_r=1)), где обсуждают историю Общества Милосердия и его эволюцию из швейного общества, созданного для того, чтобы предоставлять одежду для работающих в храме мужчин, в многогранное общество, основанное на принципах благотворительности.
 
-**2 апреля** – Прочитайте [наш собственный перевод статьи "Разворачивающееся восстановления храмовой работы"](/articles/restoration60/temple) ([The Unfolding Restoration of Temple Work](https://www.churchofjesuschrist.org/study/ensign/2001/12/the-unfolding-restoration-of-temple-work?lang=eng)) в декабрьском номере журнала Ensign за 2001 год. Какие благословения вы получили благодаря храму?
+**2 апреля** – Прочитайте [наш собственный перевод статьи "Разворачивающееся восстановления храмовой работы"](/restoration60/articles/temple) ([The Unfolding Restoration of Temple Work](https://www.churchofjesuschrist.org/study/ensign/2001/12/the-unfolding-restoration-of-temple-work?lang=eng)) в декабрьском номере журнала Ensign за 2001 год. Какие благословения вы получили благодаря храму?
 
 **3 апреля** – Прочитайте статью Облечённые заветами и благословениями ([Endowed with Covenants and Blessings](https://www.churchofjesuschrist.org/study/ensign/1995/02/endowed-with-covenants-and-blessings?lang=eng)) в февральском номере журнала Ensign за 1995 год.
 
