@@ -133,7 +133,7 @@ redirect_from: "/"
 
 **2 апреля** – Прочитайте [наш собственный перевод статьи "Разворачивающееся восстановления храмовой работы"](/restoration60/articles/temple) ([The Unfolding Restoration of Temple Work](https://www.churchofjesuschrist.org/study/ensign/2001/12/the-unfolding-restoration-of-temple-work?lang=eng)) в декабрьском номере журнала Ensign за 2001 год. Какие благословения вы получили благодаря храму?
 
-**3 апреля** – Прочитайте статью Облечённые заветами и благословениями ([Endowed with Covenants and Blessings](https://www.churchofjesuschrist.org/study/ensign/1995/02/endowed-with-covenants-and-blessings?lang=eng)) в февральском номере журнала Ensign за 1995 год.
+**3 апреля** – Прочитайте [наш собственный перевод статьи "Облечённые заветами и благословениями"](/restoration60/articles/endowed) ([Endowed with Covenants and Blessings](https://www.churchofjesuschrist.org/study/ensign/1995/02/endowed-with-covenants-and-blessings?lang=eng)) в февральском номере журнала Ensign за 1995 год.
 
 **4 апреля** – Прочитайте [Учение и Заветы 131:1-4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/131.1-4?lang=rus#1) и [Учение и Заветы 132:1-14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.1-14?lang=rus#1) про вечный брак. Как вечная перспектива изменяет наше видение брака и семьи?
 
