@@ -139,9 +139,9 @@ redirect_from: "/"
 
 **5 апреля** – Запишите не менее пяти благословений в вашей жизни, произошедших благодаря Джозефу Смиту. Прочитайте статью [Благодаря Джозефу](https://www.churchofjesuschrist.org/study/liahona/2015/04/youth/because-of-joseph?lang=rus) в апрельском номере журнала Лиахона за 2015 год.
 
-**6 апреля** – Прочитайте статью "Величие Джозефа Смита и его замечательных видений" ([The Greatness of Joseph Smith and His Remarkable Visions](https://www.churchofjesuschrist.org/study/new-era/1973/12/the-greatness-of-joseph-smith-and-his-remarkable-visions?lang=eng)) из декабрьского номера журнала New Era за 1973 год.
+**6 апреля** – Прочитайте [наш собственный перевод статьи "Величие Джозефа Смита и его замечательных видений"](/restoration60/articles/greatness) ([The Greatness of Joseph Smith and His Remarkable Visions](https://www.churchofjesuschrist.org/study/new-era/1973/12/the-greatness-of-joseph-smith-and-his-remarkable-visions?lang=eng)) из декабрьского номера журнала New Era за 1973 год.
 
-**7 апреля** – Прочитайте Служение Пророка Джозефа Смита ([The Ministry of the Prophet Joseph Smith](https://www.churchofjesuschrist.org/study/ensign/1999/07/the-ministry-of-the-prophet-joseph-smith?lang=eng)) в июльском номере журнала Ensign за 1999 год. Это хорошее подведение итогов всего, что Джозеф Смит совершил за время своей жизни.
+**7 апреля** – Прочитайте [наш собственный перевод статьи "Служение Пророка Джозефа Смита"](/restoration60/articles/ministry) ([The Ministry of the Prophet Joseph Smith](https://www.churchofjesuschrist.org/study/ensign/1999/07/the-ministry-of-the-prophet-joseph-smith?lang=eng)) в июльском номере журнала Ensign за 1999 год. Это хорошее подведение итогов всего, что Джозеф Смит совершил за время своей жизни.
 
 **8 апреля** – Посмотрите видео [Джозеф Смит: Пророк Восстановления](https://youtu.be/0vo3Ig4DRsQ) (1:02:04).
 
