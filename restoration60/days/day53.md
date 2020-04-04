@@ -2,7 +2,6 @@
 title: Дeнь 53 | Изучи восстановление за 60 дней
 header: День 53
 description: Изучи Восстановление за 60 дней
-redirect_from: "/restoration60/today"
 layout: restoration60
 ---
 
