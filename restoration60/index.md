@@ -6,7 +6,6 @@ layout: restoration60_main
 translated_by: Дмитрием Кириенко и Антоном Ильиным
 translated_from: https://www.agospelcenteredhome.com/2020/02/02/study-the-restoration-a-60-day-countdown/
 translated_from_title: сайта A Gospel Centered Home
-redirect_from: "/"
 ---
 
 <img src='assets/images/60-Day-Restoration-Countdown.jpg' class='center' />

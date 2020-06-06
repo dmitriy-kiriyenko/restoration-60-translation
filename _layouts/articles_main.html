@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158073933-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-158073933-1');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/restoration60/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">К содержимому</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.header | page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">
+        {{ page.description | default: site.description | default: site.github.project_tagline }}
+      </h2>
+      <a href="/articles/recommended" class="btn">Рекомендованная статья</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      {% if page.created_by %}
+      <small>
+        Текст подготовлен
+        {{ page.created_by }}
+      </small>
+      {% endif %}
+      <footer class="site-footer">
+        Нашли опечатку? {% github_edit_link "Помогите исправить!" %}
+      </footer>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
